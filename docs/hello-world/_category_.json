@@ -1,0 +1,8 @@
+{
+  "label": "Hello world",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Get simple communication between the devices."
+  }
+}
