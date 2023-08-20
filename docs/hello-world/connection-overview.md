@@ -20,7 +20,7 @@ Here's a summarized pipeline of the connection process:
 
 ### 1. **Physical Connection**
 
-Your Bluetooth chip needs to be attached to your microcontroller. The primary communication with most chips happens via Rx (Receive) and Tx (Transmit) pins. If you're new to Rx and Tx pins, it's worth [diving deeper into their functions and operations](LINK_TO_MORE_INFO_ABOUT_RX_AND_TX).
+Your Bluetooth chip needs to be attached to your microcontroller. The primary communication with most chips happens via Rx (Receive) and Tx (Transmit) pins. If you're new to Rx and Tx pins, it's worth diving deeper into their functions and operations.
 
 ### 2. **Software Bridge**
 

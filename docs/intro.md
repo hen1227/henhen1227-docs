@@ -35,9 +35,9 @@ For detailed explanations and examples of each class and function, navigate to t
 
 ## Next Steps
 
-- **Hello World Tutorial**: Start with the [Hello World](/docs/hello-world/) tutorial to establish a basic connection and send "Hello, World!" from your Arduino to the iOS app.
-- **Compatible Bluetooth Chips**: Check out our detailed [list](/docs/compatible) of supported Bluetooth chips and modules.
-- **API Reference**: Dive deep into each class, function, and method available in the library in our [API Reference](link-to-api-reference) section.
+- **Hello World Tutorial**: Start with the [Hello World](/docs/category/hello-world) tutorial to establish a basic connection and send "Hello, World!" from your Arduino to the iOS app.
+- **Compatible Bluetooth Chips**: Check out our [list](/docs/compatible-devices) of known supported Bluetooth chips and modules. Note: it is not an exhaustive list, and many more chips likely work as well.
+- **API Reference**: Dive deep into each class, function, and method available in the library in our [API Reference](/docs/category/api-reference) section.
 
 ---
 

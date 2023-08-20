@@ -87,31 +87,31 @@ const config = {
             items: [
               {
                 label: 'Bluetooth Serial',
-                to: '/bs-docs/intro',
-              }
-              // {
-              //   label: 'Bluetooth Serial API',
-              //   to: '/bs-docs/api',
-              // }
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/bluetooth-serial',
+                to: '/docs/intro',
               },
-              // {
-              //   label: 'Discord',
-              //   href: 'https://discordapp.com/invite/docusaurus',
-              // },
-              // {
-              //   label: 'Twitter',
-              //   href: 'https://twitter.com/docusaurus',
-              // },
+              {
+                label: 'Bluetooth Serial API',
+                to: '/docs/category/api-reference',
+              }
             ],
           },
+          // {
+          //   title: 'Community',
+          //   items: [
+          //     // {
+          //     //   label: 'Stack Overflow',
+          //     //   href: 'https://stackoverflow.com/questions/tagged/bluetooth-serial',
+          //     // },
+          //     // {
+          //     //   label: 'Discord',
+          //     //   href: 'https://discordapp.com/invite/docusaurus',
+          //     // },
+          //     // {
+          //     //   label: 'Twitter',
+          //     //   href: 'https://twitter.com/docusaurus',
+          //     // },
+          //   ],
+          // },
           {
             title: 'More',
             items: [
